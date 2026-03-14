@@ -1,0 +1,5 @@
+Galaxy cluster 1 is the Coma Cluster.
+Galaxy cluster 2 is the Virgo Cluster.
+Galaxy cluster 3 is the Fornax Cluster.
+Galaxy cluster 4 is the Hercules Cluster.
+Galaxy cluster 5 is the Perseus Cluster.
